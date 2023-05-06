@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{560A401B-B778-45A5-AD74-93C19EFC4D41}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFramework/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="EntityFramework/Program.cs" Line="13" Column="4" />
+      <File FileName="EntityFramework/Controllers/HomeController.cs" Line="19" Column="6" />
+      <File FileName="EntityFramework/Views/Home/Index.cshtml" Line="19" Column="22" />
+      <File FileName="EntityFramework/Views/_ViewImports.cshtml" Line="3" Column="34" />
+      <File FileName="EntityFramework/Models/Features.cs" Line="10" Column="2" />
+      <File FileName="EntityFramework/Models/Slider.cs" Line="6" Column="9" />
+      <File FileName="EntityFramework/Data/AppDbContext.cs" Line="12" Column="9" />
+      <File FileName="EntityFramework/Models/Services.cs" Line="8" Column="41" />
+      <File FileName="EntityFramework/ViewModels/HomeVM.cs" Line="11" Column="20" />
+      <File FileName="EntityFramework/Models/Projects.cs" Line="6" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFramework" expanded="True">
+            <Node name="EntityFramework" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Contact" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Projects" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EntityFramework PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
